@@ -10,14 +10,19 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.evaluate",
+		"onCommand:extension.create_context"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "extension.evaluate",
+				"title": "Evaluate Python Expression: eval"
+			},
+			{
+				"command": "extension.create_context",
+				"title": "Evaluate Python Expression: create context"
 			}
 		]
 	},

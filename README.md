@@ -1,10 +1,6 @@
 # Evaluate Python Expression
 
-<div align="center">
-
 [![preview](icon.png)](#readme)
-
-</div>
 
 ## Features
 

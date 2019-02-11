@@ -5,7 +5,8 @@
         "type": "git",
         "url": "https://github.com/cprogrammer1994/vscode-eval-python"
     },
-	"displayName": "evaluate-python-expression",
+    "icon": "icon.png",
+	"displayName": "Evaluate Python Expression",
 	"description": "Evaluate Python Expression",
 	"version": "0.0.1",
 	"engines": {

@@ -1,14 +1,14 @@
 {
-    "name": "evaluate-python-expression",
-    "publisher": "cprogrammer1994",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/cprogrammer1994/vscode-eval-python"
-    },
-    "icon": "icon.png",
+	"name": "evaluate-python-expression",
+	"publisher": "cprogrammer1994",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cprogrammer1994/vscode-eval-python"
+	},
+	"icon": "icon.png",
 	"displayName": "Evaluate Python Expression",
 	"description": "Evaluate Python Expression",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
